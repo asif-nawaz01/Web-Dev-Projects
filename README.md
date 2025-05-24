@@ -66,7 +66,7 @@ Here’s what I’ll be building next:
 
 ## 🚀 How to Use
 
-1. Clone this repository: git clone https://github.com/sourav-kumar-357/web-dev-projects.git
+1. Clone this repository: git clone https://github.com/asif-nawaz01/web-dev-projects.git
 2. Navigate to any project folder.
 3. Open `index.html` in your browser or run it using Live Server.
 4. Read the README (if present) in the folder to understand features or structure.
