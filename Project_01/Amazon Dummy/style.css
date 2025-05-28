@@ -1,8 +1,13 @@
+/* Our Css Designing Begins Here  */
+
 *{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     border: border-box;
 }
+
+     /* NavBar Designing  */
+
 .navbar{
     height: 60px;
     background-color: #0f1111;
@@ -11,6 +16,8 @@
     align-items: center;
     justify-content: space-evenly;
 }
+
+     /* Nav Logo here  */
 
 .nav-logo{
     height: 50px;
@@ -33,6 +40,7 @@
 }
 
 /**box2**/
+
 .delvr{
 color: #cccccc;
 font-size: 0.75rem;
@@ -47,6 +55,7 @@ font-size: 1rem;
 }
 
 /* box3 */
+
 .nav-search{
 display: flex;
 justify-content: space-evenly;
@@ -90,6 +99,7 @@ border-radius: 4px;
 
 
 /* box5 */
+
 span{
     font-size:0.7rem;
 }
@@ -99,6 +109,7 @@ span{
 }
 
 /* box6 */
+
 .nav-cart i{
     font-size: 30px;
 }
@@ -109,6 +120,7 @@ span{
 }
 
 /* panel */
+
 
 .panel{
     height: 40px;
@@ -180,6 +192,7 @@ span{
 }
 
 /* shop-section */
+
 .shop-section{
     display: flex;
     flex-wrap: wrap;
@@ -223,7 +236,9 @@ span{
 .boxo{
     height: 300px;
     width: 100%;
+
     /* margin-top: 15px; */
+
     background-color: #e2e7e6;
     padding: 20px 0px 15px;
 }
@@ -246,6 +261,7 @@ span{
 }
 
  /* sgin */
+
 .sign{
     height:100px ;
     width: 1400px;
@@ -302,6 +318,7 @@ button p{
 }
 
  /* foot-panel */
+
  .footer{
     margin-top: 15px;
  }
@@ -376,3 +393,4 @@ ul{
 .copyright{
     padding-top: 5px;
 }
+                  /* CONGRATULATION YOU COMPLETED YOUR MINDBLOWING PROJECT FINALLY  */
